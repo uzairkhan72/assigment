@@ -29,15 +29,16 @@ h2{
     width: 400px;
     height: 450px;
     margin-top: 20px;
-    background-color:rgba(227, 227, 221, 0.979);
+    background-color:rgba(142, 142, 73, 0.979);
     border: 2px solid rgb(14, 74, 115);
     border-radius: 20px;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(6px);
     box-shadow: 0 0 30px rgba(106, 110, 24, 0.9);
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    opacity: 0.8;
    
 }
 
